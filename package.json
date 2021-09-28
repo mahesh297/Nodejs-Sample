@@ -1,4 +1,5 @@
 {
+{
   "name": "megafacts-name",
   "version": "0.0.1",
   "private": true,
@@ -9,4 +10,5 @@
     "express": "3.0.0rc3",
     "jade": "*"
   }
+}
 }
